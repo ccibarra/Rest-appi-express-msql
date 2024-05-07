@@ -1,0 +1,32 @@
+{
+    "clientes": [
+        {
+            "id": 1,
+            "nombre": "christian",
+            "apellido": "ibarra",
+            "edad": 29,
+            "empresa": "developes sas"
+        },
+        {
+            "id": 2,
+            "nombre": "camilo",
+            "apellido": "ibarra",
+            "edad": 28,
+            "empresa": "develop sas"
+        },
+        {
+            "id": 3,
+            "nombre": "erika",
+            "apellido": "ibarra",
+            "edad": 30,
+            "empresa": "enfermas sas"
+        },
+        {
+            "id": 4,
+            "nombre": "pilar",
+            "apellido": "mendez",
+            "edad": 30,
+            "empresa": "magister sas"
+        }
+    ]
+}
